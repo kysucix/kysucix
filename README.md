@@ -2,11 +2,6 @@
 
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://intanto.net/)](https://intanto.net/) [![Gmail Badge](https://img.shields.io/badge/-kysucix@Dyne.org-005FF9?style=flat&logo=Mail.Ru&logoColor=white&link=mailto:kysucix@dyne.org)](mailto:kysucix@dyne.org) 
 [![Twitter Badge](https://img.shields.io/badge/-kysucix-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/kysucix/)](https://www.twitter.com/kysucix/)   
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-kysucix-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaromil/)](https://www.linkedin.com/in/jaromil/) -->
-<!-- [![Github stats](https://github-readme-stats.vercel.app/api?username=kysucix&show_icons=true&include_all_commits=true)](https://github.com/kysucix/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kysucix&layout=compact)](https://github.com/kysucix/github-readme-stats)
-
-<p align=left> <img src=https://komarev.com/ghpvc/?username=kysucix alt=kysucix /> </p>
 
 
 
